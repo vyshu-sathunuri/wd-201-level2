@@ -1,0 +1,15 @@
+{
+  "name": "level_2_201",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Manaswini Reddy <sarasanimanaswini@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "minimist": "^1.2.7"
+  },
+  "devDependencies": {},
+  "description": ""
+}
